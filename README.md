@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bret Silberbush</h1>
-<h3 align="left">I'm A Junior studying Mechanical Engineering @ the University of Rochester</h3>
+<h3 align="left">I'm a Junior studying Mechanical Engineering @ the University of Rochester</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -7,4 +7,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <img src="<img src="nx_logo.svg" width="40" height="40"/>" alt="nx" width="40" height="40"/> </p>
+<p align="left"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  <img src="nx_logo.svg" alt="nx" width="40" height="40"/>
+</p>
