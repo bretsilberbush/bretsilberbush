@@ -8,6 +8,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  <img src="NX_LOGO.svg" alt="nx" width="40" height="40"/>
+  <img src="MATLAB.png" alt="matlab" width="50" height="50"/>
+  <img src="NX_LOGO.svg" alt="nx" width="50" height="50"/>
 </p>
