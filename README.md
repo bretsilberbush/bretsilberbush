@@ -8,7 +8,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="MATLAB.png" alt="matlab" width="50" height="50"/>
-  <img src="NX_LOGO.svg" alt="nx" width="50" height="50"/>
-  <img src="ONSHAPE.svg" alt="onshape" width="50" height="50"/>
+  <a href="https://www.mathworks.com" target="_blank" rel="noreferrer">
+    <img src="MATLAB.png" alt="matlab" width="50" height="50"/>
+  </a>
+  <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank" rel="noreferrer">
+    <img src="NX_LOGO.svg" alt="nx" width="50" height="50"/>
+  </a>
+  <a href="https://www.onshape.com" target="_blank" rel="noreferrer">
+    <img src="ONSHAPE.svg" alt="onshape" width="50" height="50"/>
+  </a>
 </p>
